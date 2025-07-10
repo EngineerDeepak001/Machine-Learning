@@ -1,3 +1,3 @@
 # Machine-Learning
 I am currently studying machine learning algorithms, and I find the field highly engaging and intellectually stimulating. I am genuinely passionate about building a strong foundation in this domain.
-I have been learning machine learning for the past 3 months, and I have also built a few projects to strengthen my understanding.
+ I have also built a few projects to strengthen my understanding.
